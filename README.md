@@ -2,4 +2,4 @@
 Feature selection on 2D embeddings of manifolds using slow vibrational modes
 
 Go to the Pages environment for more details:
-https://yunwilliamyu.github.io/SlowMoMan/
+https://yunwilliamyu.github.io/SlowMoMan_v0/
